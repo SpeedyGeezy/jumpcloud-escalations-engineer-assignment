@@ -1,0 +1,10 @@
+[
+  { _id: 'Musical Mosaic', type: 'IPA', count: 33 },
+  { _id: 'Down N Out Stout', type: 'Stout', count: 34 },
+  { _id: 'Kasual Kolsch', type: 'Kolsch', count: 30 },
+  { _id: 'Peruvian Pils', type: 'Pilsner', count: 34 },
+  { _id: 'El Jefe', type: 'Hefeweizen', count: 16 },
+  { _id: 'Slam Dunk', type: 'Dunkelweizen', count: 20 },
+  { _id: 'Super Haze', type: 'Hazy IPA', count: 115 },
+  { _id: 'Leisurely Lager', type: 'Lager', count: 19 }
+]
