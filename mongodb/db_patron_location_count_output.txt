@@ -1,0 +1,4 @@
+[
+  { _id: '987 Fake Blvd, Boulder, CO', count: 8 },
+  { _id: '123 Fake Street, Denver, CO', count: 12 }
+]
